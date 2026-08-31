@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "themarketingstudent",
+  "compatibility_date": "2026-08-31",
+  // Static Astro output. No Worker / Pages Functions.
+  "pages_build_output_dir": "./dist",
+}

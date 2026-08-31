@@ -1,0 +1,438 @@
+---
+title: How Neil Patel Grows Businesses like Quick Sprout and Kissmetrics
+description: "This blog is all about studying the best marketers in the game, then breaking down their approach in order to learn from them. Love him or hate him, Neil Patel is someone you can’t miss."
+pubDate: '2017-01-19T00:00:00.000Z'
+updatedDate: '2020-09-15T20:19:02.000Z'
+heroImage: /images/2020/09/neil-patel-advanced-guide-marketing.png
+---
+
+This blog is all about studying the best marketers in the game, then breaking down their approach in order to learn from them.
+
+Love him or hate him, Neil Patel is someone you can’t miss. As the founder of Kissmetrics, Quick Sprout, CrazyEgg and plenty of other businesses, there’s a lot we can learn from how Neil grows his businesses.
+
+If you’re not familiar with Neil, think of him like … the Kevin Hart of marketing. Super prolific, always trying new things, and once you recognize him, you realize that he’s everywhere.
+
+But it’s not just constant output that makes Neil one of the best. He gets things done.
+
+You’ve likely recently visited a website that uses software from one of his companies — Kissmetrics, Crazyegg, or Hellobar. Or you’ve read the Quick Sprout blog. Or you’ve visited the websites of his clients, like TechCrunch, Airbnb and Gawker. And if you’re in marketing, I’m betting you’ve read one of his articles or you’ve heard about how President Obama recognized him as a top entrepreneur.
+
+As you can see, Neil is quite prolific.
+
+That gives us tons of source material to study, helping us learn what makes him tick and figure out the ingredients of his secret sauce.
+
+I’ve spent dozens of hours dissecting his case studies, blog posts, interviews and conference talks, so you can understand what separates him from other marketers.
+
+## The 2 Things That Make Neil Unique
+
+This post is broken up into 2 chapters, each exploring one aspect that makes Neil unique.
+
+**Chapter One — his mindset.**
+
+He holds a few core beliefs that are the opposite of what most people believe. These form the foundation of his work and allow him to outperform everyone else.
+
+**Chapter Two — his approach to marketing.**
+
+Neil’s strength isn’t that he has a big playbook of marketing tricks. It’s that he is excellent at a handful of tactics that most people are bad at, or don’t even consider to begin with.
+
+With that, let’s learn how to market like Neil Patel.
+
+## Chapter One:
+
+## To Market Like Neil Patel, You Have To Think Like Neil Patel
+
+Neil didn’t get to where he is just by having 1000 more tricks than the next guy.
+
+It’s deeper than that. His success comes down to a few beliefs that most people do not have.
+
+#### Belief #1 — Find the shortcut
+
+When trying to accomplish something, most people start by figuring out how others have done it before, then diligently executing the steps.
+
+Something like this:
+
+![](/images/2020/09/neil-patel-abc.jpg)
+
+Normal people spend their energy thinking about how to get better at getting from Step A to Step B, from Step B to Step C, and so on.
+
+But when trying to accomplish the exact same thing, Neil thinks like this:
+
+![](/images/2020/09/neil-patel-ac-shortcut.jpg)
+
+**Neil’s brain is wired to think about loopholes, hacks and shortcuts.**
+
+This gives him a huge advantage.
+
+His brain is naturally impatient, and wants to find a shorter, faster path than everyone else.
+
+The result is that he comes up with more potential solutions to the same problem. He thinks of the same conventional solutions like you and me. But he then goes one extra step and tries to figure out how to get there faster than you and me.
+
+**Here’s a perfect example:**
+
+Imagine your job is to increase search traffic: get higher rankings, rank for more keywords. Basically, get more love from Google.
+
+And to get Google to send more traffic your way, you need backlinks. Preferrably from websites that have many backlinks themselves.
+
+So, a key factor is backlinks. How do you get backlinks?
+
+Well, if you follow most advice out there, it’s about:
+
+![](/images/2020/09/white-hat-backlink-building.jpg)
+
+This is the way you “should” do it. Most people stop here and diligently execute this process.
+
+Neil’s brain goes one step further, and thinks about what it would take to get to the result faster than anyone.
+
+Here’s how that might play out:
+
+![](/images/2020/09/neil-patel-grey-hat-buying-backlinks.jpg)
+
+Most people wouldn’t even consider this shortcut because you’re not “supposed” to do this. Google explicitly tells you not to buy backlinks!
+
+So anyway, how does he do this?
+
+Some time ago, the below website used to be an outlet ecommerce store for Coach — a luxury fashion brand. Since it was the domain for a legitimate, famous brand, it got a lot of backlinks. And thus, backlinks from this domain were of high value.
+
+But now, it’s a website that has nothing to do with Coach: I’m guessing the domain expired and Coach let it lapse. But someone out there recognized its value, so they snatched it up.
+
+Today, it’s just a blog with random articles, some of which point to Neil’s website, giving him high-value backlinks.
+
+![](/images/2020/09/neil-patel-coach-grey-hat-backlinks.jpg)
+
+I found a few other backlinks like these, which shows that Neil is likely executing this strategy to help him rank for some competitive search terms.
+
+Even if these links in particular were accidental — Neil himself has admitted that he’s paid people to link to him before:
+
+> *I hit up the bloggers in my space, and said: hey, I will pay you to blog about Quicksprout*.
+
+> via [Entrepreneur On Fire](http://www.eofire.com/podcast/neil-patel-interview-of-kissmetrics-and-john-lee-dumas-of-entrepreneur-on-fire/)
+
+**The point is, Neil’s brain instantly looks for the shortcut, the hack that gets him ahead.**
+
+As a result, he ends up coming up with more solutions than the average marketer.
+
+Because he’s doing things that most people don’t consider, he’s getting results most people can’t get.
+
+### Belief #2 — Value potential gains over potential losses
+
+Imagine you get an email from the agent of a famous Instagram bikini model.
+
+She is offering to post a picture on her account, where she holds a sign mentioning you. It will cost you $5,000. Do you do take the offer?
+
+![](/images/2020/09/instagram-model-who-is-neil-patel.jpeg)
+
+Whether you have $5,000 or not, you probably thought something like:
+
+*Is this on-brand?*
+*What’s the ROI on that?*
+*What’s the risk that someone will call us out for being sexist?*
+
+And thinking those things is normal.
+
+However, Neil is not like the rest of us.
+
+**He would go one step further** and have another dimension in his decision-making process:
+
+*Hmm, since she has a large following … this could lead to positive second-order effects, like people in my target audience seeing the post and contacting me about working together … It could drive awareness for my brand … I could also write a series of blog posts about the experience, stretching the value of the investment.*
+
+*Okay, it’s worth an experiment to see what happens.*
+
+He probably made a mental evaluation that looked something like this:
+
+![](/images/2020/09/neil-patel-decision-matrix.jpg)
+
+Normal people are concerned with the parts in red: loss aversion and avoiding negative outcomes.
+
+Neil’s brain, on the other hand, is trained to focus on the green: seek the opportunity in a situation.
+
+This mindset leads to him trying new things nobody else is trying, [like spending $100,000+ a year](https://www.quicksprout.com/2015/03/11/how-spending-138491-42-on-meals-made-me-992000/) on lunches with millionaires.
+
+Just like with finding shortcuts, being risk-seeking means he’s trying things nobody else is doing, so he gets results nobody else is getting.
+
+This willingness to do things that most people consider weird or taboo is something you’ll see again in his next core belief.
+
+### Belief #3 — Originality is overrated
+
+Neil is not concerned with being known as The Most Brilliant Marketer Ever.
+
+One of Neil’s core beliefs is that he doesn’t need to be considered the best. He doesn’t need to have sexy original ideas that he’s recognized for.
+
+Neil is okay with not being naturally smart or original. He just cares about the result:
+
+> If I went to Harvard I’d probably get Cs.
+> But I’d hire students who get As.
+
+> via [Foundr](https://foundrmag.com/fp008-the-making-a-young-millionaire-the-neil-patel-story-on-marketing-content-startups-and-musings-of-a-successful-entrepreneur/)
+
+If your goal is to get As, sometimes striving to be an A student is the most inefficient way to get there, especially if you’re a natural C student. Instead, what if you just hired As?
+
+Neil is just after the result. And he has zero problem with liberally borrowing from the work of others and making them his own.
+
+His goal isn’t to come up with brilliant idea X.
+
+His goal is to create results — more money, more business — and because of that, he doesn’t need to be The Best Marketer with Amazing Original Ideas.
+
+Look at this blog newsletter sign-up form from [Groove](http://groovehq.com/):
+
+![](/images/2020/09/groove-100k-newsletter.png)
+
+Now look at this blog newsletter sign-up form on Neil’s website:
+
+![](/images/2020/09/neil-patel-groove-100k.jpg)
+
+There’s probably some part of you that is offended by the blatant rip-off.
+
+But does it matter to Neil that it’s not an original idea?
+
+**No — because he knows that as a marketer, his job is not to come up with ideas that makes bloggers swoon — his job is to drive results.**
+
+How many times have you been racking your brain in your company, straining to create new ideas? In some way, that’s a way we just want to be recognized as The Best at something, for people to recognize our creativity and genius.
+
+Neil skips all of that, and just focuses on coming up with ways to leverage people, resources and tools to produce the outcome he wants.
+
+### Belief #4 — Help people
+
+When I discovered this about Neil, I was surprised.
+
+I thought everything he did was about the numbers. That everything he was doing was serving some KPI. After all, during interviews, he speaks about his conversion rates, CPA and funnel metrics all off the top of his head.
+
+So when I kept seeing and hearing him mention over and over that he “just wants to create value and give back” … I wasn’t sure what to make of it.
+
+Then I discovered that Neil really does care about truly helping people, and doesn’t think too much about the ROI of his time. He replies to hundreds of emails a day and hangs out in the comment sections of his blog posts.
+
+Even though Neil helps people without expecting anything in return, he mentions how the positive karma always comes back in the end.
+
+Perfect example of this:
+
+Some time ago, one of Neil’s fans started emailing him with questions.
+
+After a few times going back-and-forth, Neil noticed something about the emails. The questions were getting more sophisticated!
+
+The fan was learning and taking his advice.
+
+Intrigued, Neil kept engaging with the fan and continued mentoring him, eventually going on to work with him on some projects.
+
+Who was that fan?
+
+Eric Siu, the host of [Growth Everywhere](http://growtheverywhere.com/) and cofounder of [SingleGrain](http://singlegrain.com/), a successful digital marketing agency. Neil and Eric now host a podcast called [Marketing School](http://marketingschool.io/), which was one of the fastest growing podcasts at the end of 2016.
+
+![](/images/2020/09/neil-patel-marketing-school-eric-siu.png)
+
+As marketers surrounded by data and analytics, it’s easy to fall into the trap of only doing things that have measurable ROI. Sometimes things can’t be measured. That doesn’t mean they’re not worth our time and attention.
+
+In the words of Gary Vaynerchuk, [what’s the ROI of your mother](https://www.garyvaynerchuk.com/social-media-roi-calculate-metrics/)?
+
+### Belief #5 — Anticipate trends
+
+The Marketing School podcast is actually great example of another one of Neil’s beliefs:
+
+You have to think long-term, place bets and arrange your chess pieces to give yourself an advantage when the game begins.
+
+Podcasts are finally approaching a tipping point and expanding beyond early adopters. Neil and Eric aren’t 100% sure what the ROI of the podcast is, or what exactly they’re going to get out of it, but they know that the trend is for podcasts to continue to increase in popularity, so they want to stake a claim there.
+
+Not only can they help people, they can position themselves early for a trend that appears to continue to gain steam in the next decade.
+
+Check out this short clip where Neil talks about the podcast:
+
+Another example of thinking with trends is his bet on international markets.
+
+Neil’s recognizing that digital marketing in markets outside of the USA is becoming more sophisticated. This means that there’s an opportunity for marketing experts like him to generate business in these new markets.
+
+> I have a team of translators — I think we’re 55.
+> I would say within the next two months I’ll get more traffic in Brazil than I will in United States.
+
+> via [My Wife Quit Her Job](http://mywifequitherjob.com/neil-patel-ecommerce/)
+
+His blogs produce an incredible amount of content … which he translates into Spanish, Italian, German and Portuguese.
+
+That’s a lot of work — and a lot of money — for an activity that might not generate a payoff for a long time.
+
+But Neil is betting that as these markets mature, he’s going to be well-positioned to be the go-to marketing guru.
+
+He’ll get a few flagship customers in each market, then keep building on that momentum.
+
+By anticipating trends and thinking in 10-year timescales, he stays one step ahead of everyone, and he’s able to make smart bets on how to use his resources.
+
+**A recap of Neil Patel’s core beliefs:**
+
+1. Find the shortcut
+2. Value potential gains over potential losses
+3. Originality is overrated
+4. Help people
+5. Anticipate trends
+
+## Chapter two:
+
+## The Marketing Skills That Help Neil Patel Dominate
+
+This section was originally a giant list of marketing tactics and case studies, but I realized that:
+
+- You could [just learn them directly from Neil](http://neilpatel.com/)
+- If you internalize Neil’s beliefs listed above, the marketing skills will follow naturally
+
+So, this section is just about 3 specific marketing skills that he uses over and over in his projects.
+
+Everyone else is either really, really bad at these — or they don’t even think to do them!
+
+These are the skills that help him dominate his competition.
+
+### Skill #1 — Using (and creating) warm connections
+
+Have you ever heard this phrase?
+
+*“It’s not what you know, it’s who you know”*
+
+Most of us believe that there’s power in your network — people who know you are more likely to help you, right?
+
+Typically, this means asking for help from people we already know, or maybe asking our friends for introductions. For most people, this is what “networking” means. We stop there.
+
+But one of the skills that makes Neil dangerous is that **he can create new, warm connections out of thin air,** then immediately leverage those connections to help him with his projects.
+
+For example, here’s one of Neil’s go-to playbooks for launching a blog post:
+
+1. Write blog post
+2. Mention people in the content
+3. Publish post
+4. Email everyone who was mentioned in your blog post
+5. Ask them to share
+
+By mentioning someone in the blog post, Neil creates a genuine reason to email that person. This creates a potential warm connection, since Neil is offering value and not asking for something.
+
+Here’s an example of how that would look:
+
+![](/images/2020/09/neil-patel-outreach-email-script.jpg)
+
+And to leverage even more potential warm connections, Neil widens his the net — he contacts anyone who has shown interest in things similar to his project.
+
+He knows he won’t get everyone to comply ([Neil has estimated his hit rate](https://www.smartpassiveincome.com/podcasts/neil-patel-seo/) as anywhere from 2-10%) but remember, most people aren’t even doing this.
+
+Think about it:
+
+**Send an email like the below over and over, to hundreds of people … and the results add up.**
+
+![](/images/2020/09/neil-patel-email-script-share.jpg)
+
+Is it “ethical” to send mass emails? Debatable.
+
+Does this annoy some people? Of course it does.
+
+But as I mentioned before — Neil is just after the result; not whether people like him or think he is smart.
+
+This can be applied to more than just promoting blog posts.
+
+The concept of creating a warm connection then looking for a “conversion” could easily apply to a bunch of things, like:
+
+- Recruiting
+- Building backlinks
+- Sales outreach to potential clients
+- Getting on the radar of thought leaders
+
+Put this to work for yourself by thinking about what kind of warm connections you already have — or what warm connections you can create.
+
+### Skill #2 — Using psychology to optimize
+
+As the cofounder of 2 analytics companies, Neil has become an optimization expert.
+
+But it’s not the data that makes Neil an expert. It’s because he knows that conversion optimization is fundamentally about human psychology.
+
+He’s written about the technical aspects of how to actually do this many, many times, like in his extremely comprehensive guides on [how to increase conversions](https://www.quicksprout.com/the-definitive-guide-to-conversion-optimization/), so I won’t talk about the nitty gritty.
+
+I want to show you how Neil uses this skill by telling you a story.
+
+It’s about how he used conversion principles to improve his dating life.
+
+I mean, Neil is a pretty nerdy looking dude …
+
+![](/images/2020/09/neil-patel-headshot.jpeg)
+
+Neil recognizes this, so he thought about how to optimize his “dating conversion rate”.
+
+He thought about the psychology behind dating — and realized that when looking for a partner, women highly valued financial and social status.
+
+With this insight, Neil then adapted his bio away from pure marketing stuff, to better reflect his success as an entrepreneur. So when potential dates Googled him, he was priming them to think of him in a certain way.
+
+According to Neil, this has increased his dating success, to the point where women are nervous when they meet him:
+
+### Skill #3 — Building a following
+
+With any new project, Neil aggressively builds a following.
+
+Most marketers and founders know the importance of creating a platform — usually an email list — for your business. It gives you a well you can keep drawing from, so you’re not starting from scratch every time.
+
+Neil knows this too, but he’s 10x more aggressive than the average marketer.
+
+Perfect example of this is when he was doing his [$100,000 blog challenge](https://www.quicksprout.com/2015/03/16/how-to-make-100000-a-month-within-1-year/):
+
+> I started a fan page, and within 30 days, I have gained over 50,000 fans.
+> Every time I share a link, I get an instant boost of traffic.
+
+50,000 fans in 30 days. You might be wondering how he did that?
+
+It’s simple.
+
+He paid for those fans!
+
+Neil does this in other projects as well. He spends $1,000 a day on getting more Facebook fans.
+
+Now, I’m betting that some of you are turned off by that — we instinctively feel that somehow social media followers should be “earned” and that they should be organic. *Why would Neil “waste” money on paid fans? Are those accounts even real? What is the ROI on that?!*
+
+Well, that’s not how Neil thinks.
+
+Going back to the beliefs that we covered — Neil is simply more risk-seeking than the rest of us, and he looks beyond to the second and third-order effects of his actions.
+
+Here’s what Neil has to say about those “junk” Likes:
+
+> “Sure, the fans I have been getting are junk, but it has helped create leverage that I can use for the “shout out for shout out” tactic.”
+
+> via [Quicksprout](https://www.quicksprout.com/2015/05/11/how-im-going-to-achieve-the-100k-a-month-challenge-without-using-my-name/)
+
+Basically, the growth of his Facebook following gave him the leverage to secure cross-promotions with other Facebook pages, which he used to grow the organic following of his page.
+
+You might be asking, so what’s the skill here?
+
+Anyone can spend money, right?
+
+Sort of.
+
+It’s not just building a following, and all the little marketing tactics that come from that. It’s also the *keeping and growing* of the following.
+
+Neil’s skill is not just getting  followers, but turning people into loyal fans.
+
+**I mean, think about it. I spent about 40 hours researching and writing this giant advertisement for Neil Patel.**
+
+Combine this skill with his beliefs, and it’s no wonder how he’s able to build up brands in such a short amount of time.
+
+# Conclusion
+
+You’ve reached the end, but there’s one last thing!
+
+Even if you reprogrammed your brain to think like Neil Patel, and downloaded the entirety of his blog posts, podcasts and presentations to your brain — there’s still one thing that would stop you from replicating his success:
+
+**His work ethic. Neil works really, really hard.**
+
+In a few of the podcasts I listened to, he mentioned how it was “the 3rd podcast I’m doing today.”
+
+His idol is Elon Musk, one of the most hardworking, driven people on Earth (and soon, Mars).
+
+Elon has talked about how we should all be working 100 hours a week:
+
+![via Nepsu](/images/2020/09/elon-musk-100-hours.jpg)
+
+**via** [**Nepsu**](http://nepsu.com/nepsu_save_money_startup.html)
+
+This is who Neil looks up to and tries to model.
+
+So if you want to really market like Neil Patel, you first have to reprogram your brain with these beliefs:
+
+- Find the shortcut
+- Value potential gains over potential losses
+- Originality is overrated
+- Help people
+- Anticipate trends
+
+Then copy his core marketing skills:
+
+- Using (and creating) warm connections
+- Optimizing with human psychology
+- Building a following
+
+Then … get ready to put in some serious work.

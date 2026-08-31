@@ -1,0 +1,47 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+
+const posts = (await getCollection("posts")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const grouped = new Map<number, typeof posts>();
+for (const post of posts) {
+  const year = post.data.pubDate.getUTCFullYear();
+  const list = grouped.get(year) ?? [];
+  list.push(post);
+  grouped.set(year, list);
+}
+
+function formatDate(date: Date) {
+  return date.toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    timeZone: "UTC",
+  });
+}
+---
+
+<Base>
+  <h1 class="visually-hidden">Writing</h1>
+  <ol class="archive">
+    {
+      [...grouped.entries()].map(([year, yearPosts]) => (
+        <li class="archive-year">
+          <h2 class="year">{year}</h2>
+          <ol class="post-list">
+            {yearPosts.map((post) => (
+              <li class="post-row">
+                <time datetime={post.data.pubDate.toISOString()}>
+                  {formatDate(post.data.pubDate)}
+                </time>
+                <a href={`/${post.id}/`}>{post.data.title}</a>
+              </li>
+            ))}
+          </ol>
+        </li>
+      ))
+    }
+  </ol>
+</Base>

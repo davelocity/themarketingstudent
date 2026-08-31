@@ -1,0 +1,158 @@
+---
+title: Crossing The Chasm – A Quick Summary (With Examples)
+description: "Imagine that your company’s revenue has flatlined, or growth has stalled. You keep running experiments … but none of them are working out. Your current playbook isn’t working as well as it used to."
+pubDate: '2017-04-19T00:00:00.000Z'
+updatedDate: '2020-09-15T15:48:30.000Z'
+heroImage: /images/2020/09/crossing-chasm-feature.jpg
+---
+
+Imagine that your company’s revenue has flatlined, or growth has stalled.
+
+You keep running experiments … but none of them are working out.
+
+Your current playbook isn’t working as well as it used to.
+
+Well, Geoffrey Moore would tell you that you’re in the Chasm: a pit of despair that a lot of companies (especially B2B tech companies) inevitably find themselves in, an eventually have to dig themselves out of.
+
+In his book Crossing The Chasm, Moore helps you figure out how to get past the chasm — or avoid it in the first place.
+
+Here’s my notes and takeaways from the book.
+
+### A Summary of Crossing The Chasm
+
+What is The Chasm?
+
+The Chasm is just another way to describe a common phenomenon. Some may think  of it as the [Trough of Disillusionment](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp). Ben Horowitz calls it [The Struggle](http://a16z.com/2012/06/15/the-struggle/).
+
+But whatever you call it, it’s that point early in a company’s life where things have stopped working, when you’re desperately searching for a second wind.
+
+Moore uses the Product Adoption Lifecycle to explain it:
+
+![](/images/2020/09/product-adoption-lifecycle.jpeg)
+
+This oft-cited chart is actually misleading; it’s not a smooth transition from one market segment to the next.
+
+The reality is more like:
+
+![](/images/2020/09/chasm-adoption-lifecycle.jpeg)
+
+That gap shows that those first two segments are wildly different from the other ones, and what works with them won’t work with the rest.
+
+They’re innovators and early adopters; a.k.a. people willing to try new stuff, even if it’s buggy or feature-poor.
+
+They’re a different breed from everyone else; they buy things differently, they have different motivations, they have different budgets. These are the people who line up at the Apple store to try the new, latest thing even when they know the first generation will have a lot of problems. They don’t care.
+
+**The early majority, on the other hand, is much more conservative.**
+
+They want to see reviews, get on the phone with you, and wait until they see someone else using your product. When they make a purchase, teams of people are involved in the decision.
+
+The Chasm is the stalled growth your company experiences while you figure out how to sell to the Early Majority.
+
+So how do you beat it?
+
+### How To Cross The Chasm
+
+Moore breaks this down into several parts.
+
+#### Part 1: Pick a Beachhead
+
+There’s an analogy Moore uses several times in the book: storming the beaches on D-Day.
+
+![](/images/2020/09/pick-beachhead-segment-1200x759.jpeg)
+
+Just as the Allies concentrated their forces on the beaches of France to begin retaking Europe, you must focus your efforts on a small, well-defined segment of the Early Majority in order to successfully cross the chasm.
+
+So how do you pick a beachhead? Who do you target?
+
+Start by finding the segment in the most pain.
+
+Mainstream customers typically want to see case studies and reference cases before they buy. But if you find a segment that has a painful problem they want to solve really badly, they won’t care about case studies. They won’t care so much about who you are. They just want the pain to go away.
+
+Moore then gives you a bunch of ideas you can use to further narrow down who you’ll go after.
+
+- **Alignment:** find the segment that best lines up with your strengths.
+
+- **Budget:** Go after existing budget dollars. If you have to educate / convince a segment to spend money on this problem, find another potential beachhead.
+
+- **Size:** The opportunity should be big enough to matter to you, but small enough that they’re being ignored by larger competitors. This is loosely related to [Jason Lemkin’s advice](/jason-lemkin-lessons/) that SaaS companies who are stuck should be going upmarket to find opportunities.
+
+Quick example to make this concrete: Wealthfront.
+
+Wealthfront is a roboadvisor that makes investment decisions on your behalf. Their business model of taking a small % of fees only works when they go big, so they knew they had to go after the mainstream. But an AI-powered financial advisor is pretty scary for most people; so Wealthfront started by going after a segment that fulfilled the ABS criteria: employees of Silicon Valley tech companies. Wealthfront cofounder [Andy Rachleff tells that story here](https://medium.com/@arachleff/startups-always-have-a-chasm-to-cross-61b79215ac05).
+
+Once you pick your beachhead — exclusively focus on them.
+
+The Allies went all-in and stormed the beaches. You have to do the same.
+
+This is so you can build up your base of reference customers, who can drive referrals and give you testimonials. This will give you the momentum to expand into adjacent segments.
+
+#### Part 2: Dominate With Whole Product Thinking
+
+This is about dominating the beachhead that you’ve chosen. Do it by expanding your “Product” to solve your segment’s pain better than anyone.
+
+When you see the word “Product” most of you are thinking about a specific piece of technology, like an app, a piece of software.
+
+![](/images/2020/09/whole-product-concept.png)
+
+But if you’re trying to Cross The Chasm, you have to broaden your definition of what “Product” means.
+
+To Cross the Chasm, you have to offer the Whole Product: not just the technology, but the complete experience around using that technology.
+
+Steve Jobs was a master of the Whole Product concept, and it shows in the announcement for the iPod (skip to 7:10)
+
+With Whole Product thinking, Apple took MP3 players — which, at the time were just enjoyed by early tech adopters — into the mainstream.
+
+The point here is to consider what outcome your beachhead wants to create, then supplement your technology with whatever is needed to create that outcome — support, consulting services, additional features, complementary solutions, etc.
+
+That’s Whole Product thinking.
+
+***Read next:*** [***The Best Marketing Books To Become a Better Marketer***](/best-marketing-books/)
+
+#### Part 3: Compare and Contrast
+
+An important part of Crossing The Chasm is making sure you’ve tuned your messaging so that it’s easy for your beachhead to understand.
+
+You’re going after more conservative, attention-poor people. Your pitch has to be clear. They have reputations they have to uphold, they have people to report to. They need to feel like you are a safe option.
+
+**How do you make yourself a safe option?**
+
+By making it easy to compare and contrast you to other options that they recognize.
+
+This helps mainstream buyers understand which budget dollars you’re going after. Remember, mainstream buyers probably have never heard of you, or if they have heard of you, they’re not entirely sure what you do.
+
+Box did a great job of this by comparing and contrasting itself against Sharepoint (enterprise features) and Dropbox (B2C ease of use)
+
+![](/images/2020/09/box-sharepoint-dropbox.png)
+
+By putting yourself in the neighborhood of things they understand and can relate to, you dramatically boost your chances of winning deals in your beachhead.
+
+Moore provides another tool to help you refine your positioning.
+
+Fill out this template:
+
+> For \_\_\_\_
+> Who are dissatisfied with \_\_\_\_
+> Our product is a \_\_\_\_
+> That provides \_\_\_\_
+> Unlike \_\_\_\_
+> We can provide \_\_\_\_
+
+Here’s an example of how Amazon might have filled it out when they were still crossing the chasm from an online book retailer for enthusiasts to one for the masses:
+
+![](/images/2020/09/amazon-positioning-statement.png)
+
+I guarantee you this template is harder to fill out than it looks, and will require several arm-wrestling matches with your team. But you’ll be in a better place once you work through the exercise.
+
+### Recap: A 4-point summary of Crossing The Chasm:
+
+Is your growth stalling?
+
+- Re-think how you approach the market.
+
+- Pick a beachhead and build momentum.
+
+- Offer the Whole Product and be the best at solving the pain.
+
+- Compare and contrast with current options.
+
+***Read next:*** [***The Best Marketing Books To Become a Better Marketer***](/best-marketing-books/)
