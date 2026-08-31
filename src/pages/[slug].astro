@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
+import YouTube from "../components/YouTube.astro";
 import Base from "../layouts/Base.astro";
 
 export async function getStaticPaths() {
@@ -47,7 +48,7 @@ function formatDate(date: Date) {
       )
     }
     <div class="prose">
-      <Content />
+      <Content components={{ YouTube }} />
     </div>
   </article>
 </Base>
