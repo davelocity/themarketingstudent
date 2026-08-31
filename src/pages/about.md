@@ -1,11 +1,11 @@
 ---
 layout: ../layouts/Page.astro
 title: About
-description: "Hi, I'm David. I currently lead content marketing at On Deck. I've built marketing teams at companies big and small, from public companies ($HUBS, $EA) to early stage startups."
+description: "Hi, I'm David. I'm currently VP Marketing at Owner.com. I've built marketing teams at companies big and small, from public companies ($HUBS, $EA) to early stage startups."
 heroImage: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0dWR5aW5nfGVufDB8fHx8MTYyMTczNzU1Mw&ixlib=rb-1.2.1&q=80&w=2000
 ---
 
-Hi, I'm David. I currently lead content marketing at On Deck. I've built marketing teams at companies big and small, from public companies ($HUBS, $EA) to early stage startups.
+Hi, I'm David. I'm currently VP Marketing at Owner.com. I've built marketing teams at companies big and small, from public companies ($HUBS, $EA) to early stage startups.
 
 I'm always learning new things. I spend a lot of time thinking about marketing and how to be a better operator, teammate, leader. This is a place where I share those learnings.
 
