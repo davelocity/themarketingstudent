@@ -263,6 +263,7 @@ a:hover {
   font-weight: 650;
   letter-spacing: -0.02em;
   line-height: 1.25;
+  scroll-margin-top: 1rem;
 }
 
 .prose h2 {
