@@ -7,7 +7,7 @@
   --link-hover: #5c210e;
   --rule: #e2d6c4;
   --measure: 39rem;
-  --serif: "Newsreader", "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+  --serif: "Source Serif 4", "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
   --sans: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
   color-scheme: light;
 }
@@ -78,7 +78,7 @@ a:hover {
 .wordmark {
   font-size: 1.85rem;
   font-weight: 650;
-  font-variation-settings: "opsz" 72;
+  font-variation-settings: "opsz" 60;
   letter-spacing: -0.02em;
   color: var(--text);
   text-decoration: none;
@@ -217,7 +217,7 @@ a:hover {
   margin: 0;
   font-size: clamp(1.85rem, 4.5vw, 2.55rem);
   font-weight: 650;
-  font-variation-settings: "opsz" 72;
+  font-variation-settings: "opsz" 60;
   letter-spacing: -0.028em;
   line-height: 1.15;
 }
@@ -238,6 +238,11 @@ a:hover {
   display: block;
   width: 100%;
   background: var(--paper);
+}
+
+.prose {
+  font-size: 1.2rem;
+  line-height: 1.65;
 }
 
 .prose > *:first-child {
