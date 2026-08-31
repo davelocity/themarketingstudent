@@ -25,7 +25,7 @@ Let’s dig in!
 
 ---
 
-### Communication & Interpersonal skills
+### Communication & Interpersonal skills {#communication}
 
 As marketers, our jobs require us to influence people. We have to influence not only customers and prospects, but our colleagues and partners. The following are the some of the best books for helping you improve your communication and interpersonal skills:
 
@@ -77,7 +77,7 @@ Quotes from the book:
 
 ---
 
-### Storytelling and narrative building
+### Storytelling and narrative building {#storytelling}
 
 Regardless of the type of marketing you’re involved in, or how deep you are into your career, being able to tell a story is another foundational skill that successful marketers possess.
 
@@ -107,7 +107,7 @@ Quotes from the book:
 
 ---
 
-### Writing better copy
+### Writing better copy {#copywriting}
 
 Writing effectively is a skill that your company is going to rely on you to have. Whether it’s press releases, internal memos, copy for Facebook ads, or blog posts — writing is a skill that will serve you all throughout your marketing career. The below is a selection of books that get down to the tactics of writing better copy:
 
@@ -164,7 +164,7 @@ Quotes from the book:
 
 ---
 
-### Strategy, Go-To-Market, Analysis
+### Strategy, Go-To-Market, Analysis {#strategy}
 
 The best books on marketing always involve teaching you something about business strategy, and how to think like a business leader. That’s because ultimately, your job as a marketer is to grow the business.
 
@@ -252,7 +252,7 @@ Quotes from the book:
 
 ---
 
-### People management & team building
+### People management & team building {#team}
 
 There’s an old proverb: “if you want to go fast, go alone, if you want to go far, go together.” So if you want to get far in marketing, you’ll need to know how to build great teams.
 
@@ -344,7 +344,7 @@ Read next: [my summary of The Score Takes Care of Itself.](/score-bill-walsh-sum
 
 ---
 
-### Working with Sales
+### Working with Sales {#sales}
 
 Great marketers know how to work with their counterparts in sales. For many businesses, marketing and sales are teammates in a relay race, where marketing hands off leads that sales then closes. It’s rare that one can succeed without the other.
 

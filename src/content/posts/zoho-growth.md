@@ -33,7 +33,7 @@ The second half of this post looks ahead to see what Zoho’s place in the marke
 - What they do: Zoho is a SaaS platform featuring a large suite of productivity / collaboration / marketing tools: from CRM to document signing to event management software and beyond
 - Estimated annual revenue: $500M ([source 1](https://yourstory.com/2019/01/sridhar-vembu-zoho-india-startup-ecosystem-misled-slowdown), [source 2](https://www.zoho.com/news/zoho-surges-in-market-presence.html), [source 3](https://entrackr.com/2018/10/zoho-revenue-profits/) — with some extrapolation)
 
-## What is Zoho’s unfair advantage?
+## What is Zoho’s unfair advantage? {#zoho-advantage}
 
 A central reason for Zoho’s success is its ability to execute a classic geo-arbitrage play: produce goods in a country with a low cost of living (India), then sell the goods globally.
 
@@ -61,7 +61,7 @@ Significantly lower COGS is a major reason why they’ve been profitable for so 
 
 This fundamental advantage shows up in the rest of their strategy, as we’ll now explore.
 
-## What is Zoho’s product strategy?
+## What is Zoho’s product strategy? {#zoho-product-strategy}
 
 Because of this low cost base, and thanks to the engineering talent in India, Zoho has built a huge engineering and R&D team.
 
@@ -93,7 +93,7 @@ Zoho Cliq doesn’t need to be better than Slack. It just needs to be good enoug
 
 The market implications of building out a giant suite of products is something we’ll address later in the second half of this post, but for now we continue by exploring Zoho’s go-to-market strategy.
 
-## What is Zoho’s go-to-market strategy?
+## What is Zoho’s go-to-market strategy? {#zoho-gtm}
 
 Like most of their contemporaries in SaaS, Zoho’s GTM is split up into a Direct business and Channel (reseller) business.
 
@@ -125,7 +125,7 @@ Zoho is doing the same thing, but sell primarily to SMBs.
 
 The economics of this are only possible when you have an unfair advantage in COGS.
 
-## How does Zoho do marketing?
+## How does Zoho do marketing? {#zoho-marketing}
 
 To understand Zoho’s approach to marketing, we have to begin with how Vembu thinks about marketing:
 
@@ -185,7 +185,7 @@ Overall, I was underwhelmed by Zoho’s overall approach to marketing, hoping to
 
 However, given Vembu’s perspective on the role of marketing and the strength of their product-led freemium acquisition model, it’s possible that Zoho marketing doesn’t need to be any more than what it currently is.
 
-## How does Zoho approach recruiting?
+## How does Zoho approach recruiting? {#zoho-recruiting}
 
 Zoho’s ambition is to be the all-in-one operating system for businesses all around the world. This is a huge vision that requires (and will keep requiring) more and more people to join Zoho.
 
