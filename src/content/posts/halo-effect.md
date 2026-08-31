@@ -3,7 +3,7 @@ title: 'The Halo Effect: Stop Falling For It (and Start Taking Advantage)'
 description: "Our tendency to assume someone (or something) has generally positive traits, based solely on a good first impression. The Halo Effect prevents us from making accurate judgments. We paint a rosy picture based on a tiny amount of information."
 pubDate: '2021-07-16T02:22:00.000Z'
 updatedDate: '2021-07-16T02:24:33.000Z'
-heroImage: https://images.unsplash.com/photo-1602434228300-a645bce6891b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHBlcmZlY3QlMjBzbWlsZXxlbnwwfHx8fDE2MjY0MDE5ODA&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1602434228300-a645bce6891b.jpg
 ---
 
 ### What is the Halo Effect ?

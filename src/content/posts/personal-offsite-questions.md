@@ -2,7 +2,7 @@
 title: 5 Tough Questions To Ask Yourself Regularly
 description: "It's very easy to get stuck in your day-to-day, or even your week-to-week. I've always found it helpful to run a \"personal offsite\" where you sit back and think about the big picture. This applies to your life as a marketer, but also to your life in general."
 pubDate: '2021-09-03T07:14:06.000Z'
-heroImage: https://images.unsplash.com/photo-1620662736427-b8a198f52a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxxdWVzdGlvbnN8ZW58MHx8fHwxNjMwNjUyMjAz&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1620662736427-b8a198f52a4d.jpg
 ---
 
 It's very easy to get stuck in your day-to-day, or even your week-to-week.

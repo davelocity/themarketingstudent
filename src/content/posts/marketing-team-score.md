@@ -2,7 +2,7 @@
 title: Grading Your Marketing Team out of 10
 description: "As a marketing leader, a perennially useful exercise is to get your team to grade the marketing function out of 10. Do this with blind voting, then discuss the answers and decide on how to improve the grade in the future."
 pubDate: '2022-07-24T09:31:40.000Z'
-heroImage: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNjaWVudGlzdHxlbnwwfHx8fDE2NTg2NTMzOTY&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1614935151651-0bea6508db6b.jpg
 ---
 
 As a marketing leader, a perennially useful exercise is to get your team to grade the marketing function out of 10. Do this with blind voting, then discuss the answers and decide on how to improve the grade in the future.

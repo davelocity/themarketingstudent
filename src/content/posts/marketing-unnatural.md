@@ -2,7 +2,7 @@
 title: Good Branding Feels Unnatural
 description: "\"Let's make the logo bigger.\" When you're drafting a creative asset, you have an instinct to make your company's logo bigger. After all, you want people to remember your company right?"
 pubDate: '2021-07-30T03:10:11.000Z'
-heroImage: https://images.unsplash.com/photo-1522134239946-03d8c105a0ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJldmVyc2V8ZW58MHx8fHwxNjI3NjEzNjUz&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1522134239946-03d8c105a0ba.jpg
 ---
 
 *"Let's make the logo bigger."*

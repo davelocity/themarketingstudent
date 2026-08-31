@@ -2,7 +2,7 @@
 title: The Stakeholder Empathy Exercise
 description: "Here's something nobody tells you about switching to a fully remote team: The amount of writing involved. Not just the actual time spent typing things up, but all the effort around the act of writing itself."
 pubDate: '2022-01-21T03:37:18.000Z'
-heroImage: https://images.unsplash.com/photo-1563521407646-ae34f9235cd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJvdW5kJTIwdGFibGV8ZW58MHx8fHwxNjQyNzM2MDIy&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1563521407646-ae34f9235cd7.jpg
 ---
 
 Here's something nobody tells you about switching to a fully remote team:

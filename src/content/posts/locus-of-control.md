@@ -3,7 +3,7 @@ title: Don't Give Up Your Locus of Control
 description: "One of the most insidious thoughts you can have at work is \"the boss doesn't know what they're doing.\" It seems harmless: we've all said some version of this, either quietly to ourselves or out loud with colleagues. But here's why it's a problem:"
 pubDate: '2022-05-01T08:37:00.000Z'
 updatedDate: '2022-05-01T08:36:59.000Z'
-heroImage: https://images.unsplash.com/photo-1494380436044-bae026289762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ3fHxob2xkfGVufDB8fHx8MTY1MTAyOTY0MA&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1494380436044-bae026289762.jpg
 ---
 
 One of the most insidious thoughts you can have at work is "the boss doesn't know what they're doing."

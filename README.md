@@ -71,6 +71,6 @@ That runs `astro build` and `wrangler pages deploy dist`. You will need to be lo
 
 ## Import notes
 
-Published posts and the About page were imported from the live Ghost site (74 posts in `/sitemap-posts.xml`, plus `/about/`). Ghost-hosted images (`/content/images/…` → `storage.ghost.io`) were copied into `public/images/`. Unsplash and other third-party image URLs were left remote. The one-off importer lives at `scripts/import-ghost.py` and is not part of the build.
+Published posts and the About page were imported from the live Ghost site (74 posts in `/sitemap-posts.xml`, plus `/about/`). Images that used to live on Ghost’s CDN, and Unsplash photos used as heroes, are stored in `public/images/` and referenced as `/images/...`. The one-off importer lives at `scripts/import-ghost.py` and is not part of the build.
 
 Two drafts from the old export — “Team with no structure” and “How to think strategically” — were not published on Ghost and are not in this repo.

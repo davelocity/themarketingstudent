@@ -2,7 +2,7 @@
 title: Perfect Marketing Can Still Fail
 description: "I feel a little bad for the marketing team behind the Game of Thrones prequel. At time of writing, it's due to come out in a few months. Every time the HBO team posts something on social media, they usually get a deluge of comments like this:"
 pubDate: '2022-05-15T08:50:00.000Z'
-heroImage: https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNtaWxlfGVufDB8fHx8MTY1MjUxNzQ4MQ&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1489278353717-f64c6ee8a4d2.jpg
 ---
 
 I feel a little bad for the marketing team behind the Game of Thrones prequel.

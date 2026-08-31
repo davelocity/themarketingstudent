@@ -2,7 +2,7 @@
 title: The Hidden Value of "Weekly Reports"
 description: "After any team planning exercise, you quickly realize that the phrase \"no plan survives first contact with the enemy\" applies just as much in business as it does to combat."
 pubDate: '2022-04-24T08:28:00.000Z'
-heroImage: https://images.unsplash.com/photo-1543286386-2e659306cd6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fHNwcmVhZHNoZWV0c3xlbnwwfHx8fDE2NTA0Mjg1Njg&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1543286386-2e659306cd6c.jpg
 ---
 
 After any team planning exercise, you quickly realize that the phrase "no plan survives first contact with the enemy" applies just as much in business as it does to combat.

@@ -2,7 +2,7 @@
 title: How To Know When it's Time To Switch Jobs
 description: "I'm writing this in the summer of 2021, and if you're in tech marketing, you'll know that the job market is absolutely on fire right now. Quite a number of marketers in my network have been wondering whether it's time to change roles. This is the advice I usually give."
 pubDate: '2021-08-06T01:47:31.000Z'
-heroImage: https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGpvYiUyMHNlYXJjaHxlbnwwfHx8fDE2MjgyMTQ0Mzc&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1529400971008-f566de0e6dfc.jpg
 ---
 
 I'm writing this in the summer of 2021, and if you're in tech marketing, you'll know that the job market is absolutely on fire right now.

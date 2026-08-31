@@ -3,7 +3,7 @@ title: The Great Zero Marketing Lie
 description: "One of the most pernicious tropes in tech is that you can succeed with \"zero marketing.\" This should offend you not because you're a marketer who takes it personally, but because it's lazy, incorrect thinking, and lazy, incorrect thinking prevents you from learning."
 pubDate: '2021-06-11T02:30:55.000Z'
 updatedDate: '2021-06-11T02:32:10.000Z'
-heroImage: https://images.unsplash.com/photo-1608094921359-6a7a5d414fc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHplcm98ZW58MHx8fHwxNjIzMzc4MTM5&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1608094921359-6a7a5d414fc6.jpg
 ---
 
 One of the most pernicious tropes in tech is that you can succeed with "zero marketing."

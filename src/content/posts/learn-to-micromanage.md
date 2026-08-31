@@ -3,7 +3,7 @@ title: Learn To Be a Micromanager
 description: "“Micromanaging” is not the dirty word you think it is. A whole generation of workers has been brainwashed to think that ALL micromanagement is bad. But is it really?"
 pubDate: '2022-06-26T08:18:36.000Z'
 updatedDate: '2022-06-26T23:55:27.000Z'
-heroImage: https://images.unsplash.com/photo-1494264274944-1ba7d9b73135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGNvbnRyb2x8ZW58MHx8fHwxNjU2MjMwMTU4&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1494264274944-1ba7d9b73135.jpg
 ---
 
 “Micromanaging” is not the dirty word you think it is.

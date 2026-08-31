@@ -2,7 +2,7 @@
 title: The Buying Window
 description: "Every now and then, I like to read books about sales, written for salespeople. One of the concepts that appears over and over is the importance of identifying whether someone is in the buying window – or just kicking the tires."
 pubDate: '2022-01-28T04:54:26.000Z'
-heroImage: https://images.unsplash.com/photo-1607434531924-050d4e675a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxjYXNoaWVyfGVufDB8fHx8MTY0MzM0MjgzOQ&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1607434531924-050d4e675a44.jpg
 ---
 
 Every now and then, I like to read books about sales, written for salespeople. One of the concepts that appears over and over is the importance of identifying whether someone is in the buying window – or just kicking the tires.

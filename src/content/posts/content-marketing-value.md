@@ -2,7 +2,7 @@
 title: No, Content Marketing Doesn't Take "A While" To Show Value
 description: "I was recently on a panel about content marketing and one of the audience questions went something like this: This is a perfect example of a broken telescope question, because it contains an embedded assumption that the questioner didn't notice."
 pubDate: '2021-08-27T06:24:17.000Z'
-heroImage: https://images.unsplash.com/photo-1620405959457-b2411a30cd78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fHdhaXRpbmd8ZW58MHx8fHwxNjI5NDI2NDU5&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1620405959457-b2411a30cd78.jpg
 ---
 
 I was recently on a panel about content marketing and one of the audience questions went something like this:

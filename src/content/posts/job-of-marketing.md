@@ -3,7 +3,7 @@ title: What is the job of the Marketing team?
 description: "One of my favorite things to do is taking calls from recruiters. A lot of marketers turn down recruiting calls just because they aren't actively looking, not realizing that it's some of the highest ROI activities they can do."
 pubDate: '2021-05-21T00:45:51.000Z'
 updatedDate: '2021-05-21T01:09:01.000Z'
-heroImage: https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fG1hcmtldGluZ3xlbnwwfHx8fDE2MjE1NTc0NzE&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1504868584819-f8e8b4b6d7e3.jpg
 ---
 
 One of my favorite things to do is taking calls from recruiters. A lot of marketers turn down recruiting calls just because they aren't actively looking, not realizing that it's some of the highest ROI activities they can do.

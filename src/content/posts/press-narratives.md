@@ -3,7 +3,7 @@ title: The Circular History of Press Narratives
 description: "When you've been in marketing / PR / media long enough, you'll notice that press narratives largely follow a predictable path. That path goes something like this."
 pubDate: '2021-06-18T04:55:00.000Z'
 updatedDate: '2021-06-18T04:54:59.000Z'
-heroImage: https://images.unsplash.com/photo-1580957920608-b5f3844ea00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEzfHxyb2xsZXIlMjBjb2FzdGVyfGVufDB8fHx8MTYyMzk4NTYxMw&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1580957920608-b5f3844ea00e.jpg
 ---
 
 When you've been in marketing / PR / media long enough, you'll notice that press narratives largely follow a predictable path.

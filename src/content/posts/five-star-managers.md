@@ -2,7 +2,7 @@
 title: One Star vs Five Star Managers
 description: "One of the things that Brian Chesky, CEO of Airbnb, attributes to his company's success is that he imagines what an \"11 star\" Airbnb experience looks like, then works backwards to what's feasible:"
 pubDate: '2022-06-05T09:11:42.000Z'
-heroImage: https://images.unsplash.com/photo-1480380799266-582d808d748a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM2fHxjZWxlYnJhdGV8ZW58MHx8fHwxNjU0NDIwMjQ0&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1480380799266-582d808d748a.jpg
 ---
 
 One of the things that Brian Chesky, CEO of Airbnb, attributes to his company's success is that he imagines what an "11 star" Airbnb experience looks like, then works backwards to what's feasible:

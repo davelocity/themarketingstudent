@@ -2,7 +2,7 @@
 title: Growth has an Order of Operations
 description: "Growing a business, like math, has an “order of operations” that you have to follow. You know, multiply first, do the addition and subtraction last, that kinda stuff. Solve the equation in the wrong order and it all gets messed up!"
 pubDate: '2021-07-09T01:46:25.000Z'
-heroImage: https://images.unsplash.com/photo-1509228468518-180dd4864904?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIxfHxtYXRofGVufDB8fHx8MTYyNTc5NTA5NQ&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1509228468518-180dd4864904.jpg
 ---
 
 Growing a business, like math, has an “order of operations” that you have to follow.

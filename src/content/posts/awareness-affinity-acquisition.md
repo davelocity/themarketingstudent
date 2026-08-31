@@ -3,7 +3,7 @@ title: The 3 Variables That Marketers Have to Balance
 description: "\"Our marketing isn't working.\" Whenever I'd hear this from a founder or a marketing leader, my first instinct was to always ask about their funnel. But now I've realized that jumping into solutioning only partially solves the problem."
 pubDate: '2022-05-08T10:13:28.000Z'
 updatedDate: '2022-05-14T08:45:49.000Z'
-heroImage: https://images.unsplash.com/photo-1533928298208-27ff66555d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGJhbGFuY2V8ZW58MHx8fHwxNjUyMDA0Mzc5&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1533928298208-27ff66555d8d.jpg
 ---
 
 *"Our marketing isn't working."*

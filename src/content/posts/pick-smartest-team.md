@@ -2,7 +2,7 @@
 title: Pick The Place With The Smartest People
 description: "I'm writing this in summer of 2022, where the job market (especially in tech) is volatile. On one hand, weekly news of companies doing layoffs or hiring freezes. On the other hand are companies announcing successful funding rounds and announcing all the roles they have to fill."
 pubDate: '2022-06-12T09:32:05.000Z'
-heroImage: https://images.unsplash.com/photo-1460058418905-d61a1b4a55fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNlbGVjdGlvbnxlbnwwfHx8fDE2NTUwMjU3NDM&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1460058418905-d61a1b4a55fe.jpg
 ---
 
 I'm writing this in summer of 2022, where the job market (especially in tech) is volatile. On one hand, weekly news of companies doing layoffs or hiring freezes. On the other hand are companies announcing successful funding rounds and announcing all the roles they have to fill.

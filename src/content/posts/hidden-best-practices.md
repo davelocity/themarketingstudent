@@ -2,7 +2,7 @@
 title: The Annoying Truth Behind Case Studies and "Best Practices"
 description: "Every now and then, a friend will give a talk at a conference where they tell this amazing story. You've heard these before. Numbers going up, despite the odds. Stakeholders cheering. Marketing is a hero."
 pubDate: '2021-06-04T02:23:46.000Z'
-heroImage: https://images.unsplash.com/photo-1617002924844-34752d9eb7b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMzfHxibGFjayUyMGhhdHxlbnwwfHx8fDE2MjI3NzMyNzU&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1617002924844-34752d9eb7b5.jpg
 ---
 
 Every now and then, a friend will give a talk at a conference where they tell this amazing story. You've heard these before. Numbers going up, despite the odds. Stakeholders cheering. Marketing is a hero.

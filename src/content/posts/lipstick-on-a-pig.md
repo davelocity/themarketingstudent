@@ -2,7 +2,7 @@
 title: Putting Lipstick on a Pig Actually Works Sometimes
 description: "Marketers and advertisers are sometimes accused of \"polishing a turd\" or \"putting lipstick on a pig.\" The sentiment being that it's common practice to overpromising and underdelivering."
 pubDate: '2022-07-17T09:35:07.000Z'
-heroImage: https://images.unsplash.com/photo-1456086272160-b28b0645b729?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHBhaW50aW5nfGVufDB8fHx8MTY1ODA0OTA2OQ&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1456086272160-b28b0645b729.jpg
 ---
 
 Marketers and advertisers are sometimes accused of "polishing a turd" or "putting lipstick on a pig." The sentiment being that it's common practice to overpromising and underdelivering.

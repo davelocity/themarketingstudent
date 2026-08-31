@@ -3,7 +3,7 @@ title: 'A Tale of 3 Marketers: The Artist, The Soldier, The Gambler'
 description: "A marketer walks into a bar after a long day at work. The Marketer has been dealing with a business problem at work, and doesn't have a clue on how it could be solved. Giving up for the day, The Marketer is hoping that a drink will bring some reprieve from the stress."
 pubDate: '2021-07-23T00:55:00.000Z'
 updatedDate: '2021-07-23T01:21:33.000Z'
-heroImage: https://images.unsplash.com/photo-1569937744899-35f582ad2880?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM2fHxiYXIlMjBmcmllbmRzfGVufDB8fHx8MTYyNjk5ODczNA&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1569937744899-35f582ad2880.jpg
 ---
 
 A marketer walks into a bar after a long day at work.

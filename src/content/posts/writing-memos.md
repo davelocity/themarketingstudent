@@ -2,7 +2,7 @@
 title: How Do You Write a Memo?
 description: "You're probably aware of Amazon's memo culture, which is fetishized in the tech world as yet another example of Bezosian genius. Here's the short version of how it goes:"
 pubDate: '2022-07-10T09:24:21.000Z'
-heroImage: https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdHJhdGVneXxlbnwwfHx8fDE2NTc0NDQ4MjU&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1521737604893-d14cc237f11d.jpg
 ---
 
 You're probably aware of Amazon's memo culture, which is fetishized in the tech world as yet another example of Bezosian genius.

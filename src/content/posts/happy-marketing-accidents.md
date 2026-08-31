@@ -2,7 +2,7 @@
 title: Make Room For Happy Marketing Accidents
 description: "I have a pet theory that all problems are just resource allocation problems. Can't hit your marketing goals? Unhappy in your personal relationships? Not losing weight despite trying really hard? Having trouble starting a book reading habit?"
 pubDate: '2021-12-03T06:25:07.000Z'
-heroImage: https://images.unsplash.com/photo-1613271752699-ede48a285196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG1hZCUyMHNjaWVudGlzdHxlbnwwfHx8fDE2Mzg1MTA5Nzc&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1613271752699-ede48a285196.jpg
 ---
 
 I have a pet theory that all problems are just resource allocation problems.

@@ -2,7 +2,7 @@
 title: Here's 5 Reads I Keep Coming Back To
 description: "This is a short list of content I've found myself thinking a lot about this recently. These are some of the most useful and thought-provoking reads on marketing, productivity and strategy I've come across in a while, so I hope you get value from them."
 pubDate: '2021-11-05T02:44:13.000Z'
-heroImage: https://images.unsplash.com/photo-1560719887-fe3105fa1e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGJvb2ttYXJrc3xlbnwwfHx8fDE2MzYwNzg5MTI&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1560719887-fe3105fa1e55.jpg
 ---
 
 This is a short list of content I've found myself thinking a lot about this recently. These are some of the most useful and thought-provoking reads on marketing, productivity and strategy I've come across in a while, so I hope you get value from them.

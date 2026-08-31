@@ -3,7 +3,7 @@ title: Play The Long Game
 description: "Looking back at my time at HubSpot, one of the things that stands out is how much the company benefitted from goodwill and affinity, and how it almost shied away from trying to sell you things."
 pubDate: '2021-10-01T06:09:48.000Z'
 updatedDate: '2021-10-04T00:48:15.000Z'
-heroImage: https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGNoZXNzfGVufDB8fHx8MTYzMzA2NzY4MA&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1604948501466-4e9c339b9c24.jpg
 ---
 
 Looking back at my time at HubSpot, one of the things that stands out is how much the company benefitted from goodwill and affinity, and how it almost shied away from trying to sell you things.

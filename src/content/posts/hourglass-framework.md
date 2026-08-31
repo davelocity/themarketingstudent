@@ -3,7 +3,7 @@ title: 'The Hourglass Framework: How To Get Promoted'
 description: "If you're trying to get promoted, get a raise or generally get recognition within an org, you should imagine an hourglass with sand gradually trickling down. The size of the hourglass, and the length of time it takes to run out, is dependent on your job title."
 pubDate: '2021-08-13T02:18:15.000Z'
 updatedDate: '2024-12-29T20:43:31.000Z'
-heroImage: https://images.unsplash.com/photo-1575197478864-c83e1d2a4443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxob3VyZ2xhc3N8ZW58MHx8fHwxNjI4ODIwNTQw&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1575197478864-c83e1d2a4443.jpg
 ---
 
 If you're trying to get promoted, get a raise or generally get recognition within an org, you should imagine an hourglass with sand gradually trickling down.

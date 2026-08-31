@@ -3,7 +3,7 @@ title: 'Deep Work is a Trap: To Thrive in a Remote World, Learn To Context Switc
 description: "We're over a year now into the Great Remote Work experiment, and after a honeymoon period where everyone got plants and dogs and found favorite yoga YouTubers, many people are now at the 3rd or 4th stage in this pic:"
 pubDate: '2021-05-14T02:13:46.000Z'
 updatedDate: '2021-05-21T00:47:11.000Z'
-heroImage: https://images.unsplash.com/photo-1613417668910-98edb18f6e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI1fHxjb25jZW50cmF0ZXxlbnwwfHx8fDE2MjE1NTc5OTQ&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1613417668910-98edb18f6e5d.jpg
 ---
 
 We're over a year now into the Great Remote Work experiment, and after a honeymoon period where everyone got plants and dogs and found favorite yoga YouTubers, many people are now at the 3rd or 4th stage in this pic:

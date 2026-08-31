@@ -2,7 +2,7 @@
 title: Avoid asking "Broken Telescope" Questions
 description: "Today's post is about asking better questions and identifying terrible questions. I really enjoy reading Quora. Partially because they’ve done a great job of curating questions and answers that I’m interested in."
 pubDate: '2021-08-20T02:50:36.000Z'
-heroImage: https://images.unsplash.com/photo-1600456548090-7d1b3f0bbea5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRlbGVzY29wZXxlbnwwfHx8fDE2Mjk0Mjc3MjA&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1600456548090-7d1b3f0bbea5.jpg
 ---
 
 Today's post is about asking better questions and identifying terrible questions.

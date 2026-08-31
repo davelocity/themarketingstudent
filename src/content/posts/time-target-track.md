@@ -2,7 +2,7 @@
 title: 'Time, Targeting, Trackability: A Short Guide For Picking Channels'
 description: "From around 2008 to about 2016, marketers were obsessed with content marketing. With good reason. Content marketing built major companies across industries, from B2B companies like HubSpot and Marketo to mass consumer brands like Barkbox and Grammarly."
 pubDate: '2022-05-22T08:59:11.000Z'
-heroImage: https://images.unsplash.com/photo-1605142859862-978be7eba909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI4fHxkaWNlfGVufDB8fHx8MTY1MzIwODg1Mw&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1605142859862-978be7eba909.jpg
 ---
 
 From around 2008 to about 2016, marketers were obsessed with content marketing.

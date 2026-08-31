@@ -28,9 +28,6 @@ UA = "TheMarketingStudentImporter/1.0 (+https://www.themarketingstudent.com)"
 SITEMAP_NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 SIZE_RE = re.compile(r"/size/w\d+/")
 GHOST_IMAGE_MARKERS = (
-    "storage.ghost.io",
-    "static.ghost.org",
-    "ghost.io",
     "/content/images/",
 )
 SKIP_TITLES = {
@@ -38,8 +35,6 @@ SKIP_TITLES = {
     "how to think strategically",
 }
 REMOTE_IMAGE_HOSTS = (
-    "images.unsplash.com",
-    "unsplash.com",
     "images.pexels.com",
     "i.imgur.com",
     "imgur.com",
@@ -91,11 +86,7 @@ def collapse_ws(text: str) -> str:
 def is_ghost_asset(url: str) -> bool:
     lower = url.lower()
     if any(host in lower for host in REMOTE_IMAGE_HOSTS):
-        # Unsplash sometimes sits behind Ghost's image proxy; treat as remote.
-        if "unsplash" in lower:
-            return False
-        if "gravatar" in lower:
-            return False
+        return False
     return any(marker in lower for marker in GHOST_IMAGE_MARKERS)
 
 
@@ -324,9 +315,9 @@ def write_post(entry: dict, mapping: dict[str, str]) -> None:
         if rel:
             hero = "/images/" + rel
     markdown = apply_image_map(entry["markdown"], mapping)
-    # Catch any leftover ghost CDN refs that slipped through.
+    # Catch any leftover CMS CDN refs that slipped through.
     markdown = re.sub(
-        r"https://storage\.ghost\.io/[^)\s]+/content/images/(?:size/w\d+/)?",
+        r"https://[^)\s]+/content/images/(?:size/w\d+/)?",
         "/images/",
         markdown,
     )
@@ -355,7 +346,7 @@ def write_about(entry: dict, mapping: dict[str, str]) -> None:
         hero = ("/images/" + rel) if rel else mapping.get(hero, hero)
     markdown = apply_image_map(entry["markdown"], mapping)
     markdown = re.sub(
-        r"https://storage\.ghost\.io/[^)\s]+/content/images/(?:size/w\d+/)?",
+        r"https://[^)\s]+/content/images/(?:size/w\d+/)?",
         "/images/",
         markdown,
     )
@@ -420,10 +411,10 @@ def main() -> None:
     leftover = []
     for path in POSTS_DIR.glob("*.md"):
         text = path.read_text(encoding="utf-8")
-        if "ghost.io" in text or "/content/images/" in text:
+        if re.search(r"https://\S+/content/images/", text):
             leftover.append(path.name)
     about_text = ABOUT_PATH.read_text(encoding="utf-8") if ABOUT_PATH.exists() else ""
-    if "ghost.io" in about_text:
+    if re.search(r"https://\S+/content/images/", about_text):
         leftover.append("about.md")
 
     summary = {

@@ -2,7 +2,7 @@
 title: Do The Right Things Wrong
 description: "Here's something that confused me for a really long time: How some marketers I worked with had average \"technical\" skills, yet kept getting promoted or kept getting great opportunities."
 pubDate: '2022-04-17T09:47:05.000Z'
-heroImage: https://images.unsplash.com/photo-1506702315536-dd8b83e2dcf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHdyb25nfGVufDB8fHx8MTY1MDE4ODIzMg&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1506702315536-dd8b83e2dcf9.jpg
 ---
 
 Here's something that confused me for a really long time:

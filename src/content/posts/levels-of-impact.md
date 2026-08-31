@@ -2,7 +2,7 @@
 title: Levels of Impact
 description: "If you're a mid to senior marketer, here's a useful exercise that acts as as a sanity check to make sure you're spending your time doing high-value activities. The different levels of impact you can have as a marketer:"
 pubDate: '2022-05-29T12:24:10.000Z'
-heroImage: https://images.unsplash.com/photo-1506324587841-69c8c9aaa05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGNsaW1ifGVufDB8fHx8MTY1MzgyNDQzNA&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1506324587841-69c8c9aaa05c.jpg
 ---
 
 If you're a mid to senior marketer, here's a useful exercise that acts as as a sanity check to make sure you're spending your time doing high-value activities.

@@ -2,7 +2,7 @@
 title: How To Evaluate a Company Before You Join Them
 description: "I used to do this the stupid way that I'm almost embarrassed to share this. But I'm all for helping people make better decisions, so here goes. In the past, when I was applying for jobs or when a recruiter / hiring manager reached out, I'd be impressed by such dumb things."
 pubDate: '2021-05-28T01:29:07.000Z'
-heroImage: https://images.unsplash.com/photo-1535320903710-d993d3d77d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE2MjIxNjQ0OTM&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1535320903710-d993d3d77d29.jpg
 ---
 
 I used to do this the stupid way that I'm almost embarrassed to share this. But I'm all for helping people make better decisions, so here goes.

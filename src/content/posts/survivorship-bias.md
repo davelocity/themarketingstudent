@@ -3,7 +3,7 @@ title: 'Survivorship Bias: Why Reading Too Many Stories of Success is Bad For Yo
 description: "![survivorshipbias2x-1](https://imgs.xkcd.com/comics/survivorshipbias.png) Bill Gates and Mark Zuckerberg dropped out of college and went on to become industry legends."
 pubDate: '2021-07-02T03:08:00.000Z'
 updatedDate: '2021-07-02T03:07:40.000Z'
-heroImage: https://images.unsplash.com/photo-1518688248740-7c31f1a945c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGxvdHRlcnl8ZW58MHx8fHwxNjI1MTk1MDkz&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1518688248740-7c31f1a945c4.jpg
 ---
 
 ### What is Survivorship bias?

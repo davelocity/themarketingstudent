@@ -2,7 +2,7 @@
 title: 'Skill, Audience, Network: 3 Currencies That Define Your Career'
 description: "Here's a useful framework: thinking about your career as one that collects different types of currencies. Think of it like foreign exchange. You can convert these currencies back and forth, but more importantly, you can convert them into actual currency – ie. money."
 pubDate: '2021-06-25T05:31:24.000Z'
-heroImage: https://images.unsplash.com/photo-1580519542036-c47de6196ba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGN1cnJlbmN5fGVufDB8fHx8MTYyNDU5ODgxNw&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1580519542036-c47de6196ba5.jpg
 ---
 
 Here's a useful framework: thinking about your career as one that collects different types of currencies.

@@ -2,7 +2,7 @@
 title: What Does Good Look Like?
 description: "During my time at HubSpot, I worked closely with one of those leaders that instilled a productive kind of fear in people. Not fear in the sense of danger, but fear in the sense of tension – if you went to a meeting with him and were unprepared, you would feel the pain instantly."
 pubDate: '2022-06-19T08:30:08.000Z'
-heroImage: https://images.unsplash.com/photo-1609643242070-c69786a76c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxxdWVzdGlvbnN8ZW58MHx8fHwxNjU1NjI3MTg2&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1609643242070-c69786a76c30.jpg
 ---
 
 During my time at HubSpot, I worked closely with one of those leaders that instilled a productive kind of fear in people.

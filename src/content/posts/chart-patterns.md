@@ -3,7 +3,7 @@ title: How To Read a Chart
 description: "Something happens once you spend enough time looking at charts, working to influence them and trying (sometimes in futility) to explain their gyrations – you start to recognize patterns."
 pubDate: '2021-09-17T07:15:04.000Z'
 updatedDate: '2021-09-20T02:57:39.000Z'
-heroImage: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fGNoYXJ0fGVufDB8fHx8MTYzMTg2MjU1MQ&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1568234928966-359c35dd8327.jpg
 ---
 
 Something happens once you spend enough time looking at charts, working to influence them and trying  (sometimes in futility) to explain their gyrations – you start to recognize patterns.

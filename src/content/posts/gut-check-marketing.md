@@ -2,7 +2,7 @@
 title: 3 Short Questions To Gut-Check Any Marketing Activity
 description: "Marketers are never starved of ideas. There's always something you can do. There's always some new thing you can try. This is becoming more and more true with the rise of no-code."
 pubDate: '2021-10-29T03:41:32.000Z'
-heroImage: https://images.unsplash.com/photo-1527645746751-d4dc7aa53163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHRocmVlfGVufDB8fHx8MTYzNTQ3ODA0Mg&ixlib=rb-1.2.1&q=80&w=2000
+heroImage: /images/unsplash/photo-1527645746751-d4dc7aa53163.jpg
 ---
 
 Marketers are never starved of ideas. There's always something you can do. There's always some new thing you can try.
